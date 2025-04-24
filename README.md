@@ -131,7 +131,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 For questions or feedback, please contact:
---**Tharun JS ** : tharunjs012003@gmail.com
+- **Tharun JS** : tharunjs012003@gmail.com
 - **Akash M**: akash@example.com
 - **K.S. Ahmed Abrarul Hag**: abrarul@example.com
 - **M Abinesh**: abinesh@example.com
