@@ -1,9 +1,6 @@
-Yes, absolutely! Below is the **final README file** with **all the requested elements**, including **icons**, **file structure**, **installation instructions**, **usage details**, **technologies used**, **contributing guidelines**, **license**, **acknowledgements**, and **contact information**. This README is designed to be **comprehensive** and **visually appealing**.
 
----
 
-```markdown
-# Comprehensive Space Threat Assessment and Prediction System (CSTAPS)
+# Comprehensive Space Threat Prediction System 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.22.0-green?logo=streamlit)
@@ -134,6 +131,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 For questions or feedback, please contact:
+--**Tharun JS ** : tharunjs012003@gmail.com
 - **Akash M**: akash@example.com
 - **K.S. Ahmed Abrarul Hag**: abrarul@example.com
 - **M Abinesh**: abinesh@example.com
@@ -142,26 +140,3 @@ For questions or feedback, please contact:
 
 ---
 
-### Key Features of This README:
-1. **Icons**: Used throughout the README to make it visually appealing and easy to scan.
-2. **Badges**: Added for Python, Streamlit, Scikit-learn, Plotly, and NASA NEO API.
-3. **File Structure**: Clearly outlines the organization of the project files.
-4. **Installation Instructions**: Step-by-step guide to set up the project locally.
-5. **Usage**: Explains how to use the application.
-6. **Technologies Used**: Lists the technologies and tools used in the project.
-7. **Contributing**: Explains how others can contribute to the project.
-8. **License**: Specifies the MIT License.
-9. **Acknowledgements**: Credits third-party tools, APIs, and libraries.
-10. **Contact**: Provides contact information for the team.
-
----
-
-### How to Use This README:
-1. Copy the entire content above.
-2. Paste it into a new file named `README.md` in your project's root directory.
-3. Replace placeholders (e.g., `your-username`, `akashm.coder@gmail.com`) with actual values.
-4. Commit and push the changes to your GitHub repository.
-
----
-
-This README is **ready to use** and will make your project look professional and well-documented. Let me know if you need further assistance! 🚀
